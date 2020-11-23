@@ -1,4 +1,4 @@
-# noviembre-23 - Avance
+# noviembre 23 - Avance
 ## ESTRUCTURA
 * Política energética de Chile
 * Conflictos socioambientales en Chile 
