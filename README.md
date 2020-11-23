@@ -2,7 +2,7 @@
 ## ESTRUCTURA
 * Política energética de Chile
 * Conflictos socioambientales en Chile 
-* Mapa conflictos en Chile
+* Mapa conflictos energéticos en Chile
 * Caso Alto Maipo
 * ¿Qué es Alto Maipo?
 * Rio Maipo (Antes y después)
